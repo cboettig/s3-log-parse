@@ -1,0 +1,1 @@
+8aefdcbf18ef13fe9f82be73697a945f423e4299c995e9e96bb619975db40bd6 drat [12/Jun/2015:05:30:57 +0000] 208.54.5.245 arn:aws:iam::755983557176:user/ropensci 9D56978AFC1F007E REST.HEAD.OBJECT logs "HEAD /logs HTTP/1.1" 404 NoSuchKey 275 - 22 - "-" "aws-cli/1.7.0 Python/3.4.3 Linux/3.19.0-20-generic" -
